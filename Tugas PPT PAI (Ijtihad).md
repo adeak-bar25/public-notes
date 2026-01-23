@@ -76,21 +76,33 @@ Al-Quran dan sunah adalah sumber pedoman umat Islam yang memuat semua aturan dan
 Berdalih pada hadis Mu’adz bin Jabal r.a. yang diriwayatkan Abu Dawud dalam Sunan-nya, waktu Nabi SAW. mengutus Mu’adz ke negara Yaman sebagai Qodli.
 
 > "Bagaimana engkau akan memutuskan sebuah persoalan ketika timbul pertanyaan (dari orang-orang Yaman)?"
-> 
-Muadz menjawab, "Aku akan menjawab nya sesuai dengan Alquran." Nabi lalu bertanya lagi, "Bagaimana jika engkau tidak bisa menemukan jawabannya di dalam Alquran?"
 >
-"Aku akan menjawabnya sesuai dengan sunah."
+> Muadz menjawab, "Aku akan menjawab nya sesuai dengan Alquran." Nabi lalu bertanya lagi, "Bagaimana jika engkau tidak bisa menemukan jawabannya di dalam Alquran?"
 >
-"Dan jika engkau tidak menemukan jawabannya, baik di dalam sunah maupun di Alquran?"
+> "Aku akan menjawabnya sesuai dengan sunah."
 >
-"Aku akan mengerahkan segala kemampuanku untuk memberikan penilaianku sendiri atas masalah itu."
+> "Dan jika engkau tidak menemukan jawabannya, baik di dalam sunah maupun di Alquran?"
 >
-Kemudian Nabi bersabda, "Segala puji bagi Allah yang telah membimbing utusan Nabi-Nya (Muadz) kepada langkah yang diridhai Nabi- Nya."
+> "Aku akan mengerahkan segala kemampuanku untuk memberikan penilaianku sendiri atas masalah itu."
+>
+> Kemudian Nabi bersabda, "Segala puji bagi Allah yang telah membimbing utusan Nabi-Nya (Muadz) kepada langkah yang diridhai Nabi- Nya."
 
 
 ### Source and Ref
-https://nu.or.id/warta/pcinu-yaman-adakan-seminar-soal-ijma039-BlcEY#:~:text=mengutus%20Mu'adz%20ke%20negara%20Yaman%20sebagai%20Qodli.,tidak%20ada%20dalam%20sunnah%20maka%20dengan%20ijtihad.
+https://nu.or.id/warta/pcinu-yaman-adakan-seminar-soal-ijma039-BlcEY#:~:text=mengutus%20Mu'adz%20ke%20negara%20Yaman%20sebagai%20Qodli.,tidak%20ada%20dalam%20sunnah%20maka%20dengan%20ijtihad
 https://republika.co.id/berita/koran/islam-digest-koran/15/04/26/nnerzi-asalusul-ilmu-ushul-fikih
+
 ---
 ## Ijtihad Sahabat
-Ijtihad memegang peran penting dalam kehidupan umat Islam, sehingga Rasulullah saw mengajarkan dan mempersiapkan para sahabat untuk menjadi mujtahid. Meski saat itu wahyu masih turun dan Rasulullah saw masih hidup, ijtihad dipandang perlu untuk
+Ijtihad memegang peran penting dalam kehidupan umat Islam, sehingga Rasulullah saw mengajarkan dan mempersiapkan para sahabat untuk menjadi mujtahid. Meski saat itu wahyu masih turun dan Rasulullah saw masih hidup, ijtihad dipandang perlu untuk menghadapi berbagai masalah.
+
+Salah satu contoh ijtihad yang dilakukan oleh Amr bin Ash pada peristiwa perang Dzat As-Salasil (Pertempuran Rantai) yang saat itu mengalami mimpi basah dimalam yang dingin yang diriwayatkan oleh Imam Abu Dawud dalam sunannya.
+
+> Dari Amr bin al-‘Ash, ia berkata: Aku bermimpi basah pada malam yang sangat dingin dalam Perang Dzat As-Salasil. Aku khawatir jika mandi maka aku akan celaka, maka aku bertayamum dan shalat subuh bersama para sahabatku. Mereka pun menyampaikan hal itu kepada Rasulullah saw.
+>
+> Maka beliau bersabda: “Wahai Amr, kamu shalat bersama sahabatmu dalam keadaan junub?” 
+>
+> Aku menjawab: “Aku teringat firman Allah: **{Dan janganlah kamu membunuh dirimu. Sesungguhnya Allah Maha Penyayang kepadamu} (QS. An-Nisa: 29) [!NOTE]: _Tambahin ayat_ **, maka aku bertayamum dan shalat.”
+> 
+> Maka Rasulullah saw tertawa dan tidak berkata apa-apa.
+

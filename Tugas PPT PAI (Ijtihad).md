@@ -126,4 +126,15 @@ https://bincangmuslimah.com/kajian/apakah-nabi-juga-berijtihad-43523/
 https://alfahmu.id/apakah-rasulullah-boleh-berijtihad-atau-tidak/
 ___
 ## Semua yang Berasal dari Nabi Muhammad adalah Wahyu
-Menurut Syaikh Manna' Al-Qaththan dalam kitab Mabahit FIl Ulmil Quran menjelaskan bahwa hadis Rasulullah saw terbagi menjadi dua. Pertama adalah hadis taufiqi
+Menurut Syaikh Manna' Al-Qaththan dalam kitab Mabahit FIl Ulmil Quran menjelaskan bahwa hadis Rasulullah saw terbagi menjadi dua. Pertama adalah hadis taufiqi yaitu _Hadis yang didapatkan dari wahyu yang berasal dari Allah Swt_ dan yang kedua adalah hadis ijtihadi yaitu hadis yang merupakan hasil dari isthinbath (penentuan berdasarkan prinsip hukum Islam) dari ayat Al-Quran dengan melalui proses ta'ammul (perenungan) dan ijtihad.
+
+Jika hasil ijtihad dari Rasulullah saw benar, maka Allah Swt akan menetapkannya, namun jika terjadi kekurangtepatan maka Allah swt akan menurunkan wahyu untuk membenarkannya.
+
+___
+## Masalah-masalah ijtihadiyah
+Tidak semua permasalahan umat Islam dapat diijtihadkan. Berikut adalah wilayah tertentu yang dapat menjadi objek dari ijtihad. Pertama, wilayah yang tidak boleh diijtihadkan antara lain.
+
+1. **Masalah qat'iyah** : Masalah yang hukumnya sudah ditetapkan dengan dalil-dalil yang sudah pasti.
+2. **Masalah yang telah diijmakkan (kesepakatan para mujtahid) dari suatu masa**
+
+Wilayah kedua meliputi hal-hal yang dapat diijtihadkan yakni masalah dzanniyah (masalah yang belum jelas dalil nash-nya)

@@ -102,7 +102,7 @@ Salah satu contoh ijtihad yang dilakukan oleh Amr bin Ash pada peristiwa perang 
 >
 > Maka beliau bersabda: “Wahai Amr, kamu shalat bersama sahabatmu dalam keadaan junub?” 
 >
-> Aku menjawab: “Aku teringat firman Allah: **{Dan janganlah kamu membunuh dirimu. Sesungguhnya Allah Maha Penyayang kepadamu} (QS. An-Nisa: 29) [!NOTE]: _Tambahin ayat_ **, maka aku bertayamum dan shalat.”
+> Aku menjawab: “Aku teringat firman Allah: **{Dan janganlah kamu membunuh dirimu. Sesungguhnya Allah Maha Penyayang kepadamu} (QS. An-Nisa: 29) [!NOTE]: _Tambahin ayat_**, maka aku bertayamum dan shalat.”
 > 
 > Maka Rasulullah saw tertawa dan tidak berkata apa-apa.
 
@@ -111,4 +111,6 @@ Salah satu contoh ijtihad yang dilakukan oleh Amr bin Ash pada peristiwa perang 
 https://kalam.sindonews.com/read/566344/68/pengganti-mandi-junub-boleh-tayamum-begini-tata-caranya-1634026244/10
 
 ## Ijtihad Nabi Muhammad saw
-Tidak hanya para sahab
+Tidak hanya para sahabat yang berijtihad, bahkan Rasulullah saw sendiri beberapa kali berijtihad ketika wahyu tidak kunjung turun saat beliau dituntut untuk menyelesaikan sebuah permasalahan segera.
+
+Rasulullah saw adalah seorang yang ma'shum (Terpelihara atau bebas dari dosa dan kesalahan), 

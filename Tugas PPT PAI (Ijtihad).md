@@ -106,3 +106,9 @@ Salah satu contoh ijtihad yang dilakukan oleh Amr bin Ash pada peristiwa perang 
 > 
 > Maka Rasulullah saw tertawa dan tidak berkata apa-apa.
 
+
+### Source and Ref
+https://kalam.sindonews.com/read/566344/68/pengganti-mandi-junub-boleh-tayamum-begini-tata-caranya-1634026244/10
+
+## Ijtihad Nabi Muhammad saw
+Tidak hanya para sahab

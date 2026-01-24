@@ -110,5 +110,18 @@ Salah satu contoh ijtihad yang dilakukan oleh Amr bin Ash pada peristiwa perang 
 ### Source and Ref
 https://kalam.sindonews.com/read/566344/68/pengganti-mandi-junub-boleh-tayamum-begini-tata-caranya-1634026244/10
 
+___
 ## Ijtihad Nabi Muhammad saw
-Mayoritas ulama meyakini bahwa Rasullulah pernah ber
+Pendapat lemah menyatakan Nabi tidak boleh berijtihad karena hukum diturunkan melalui wahyu. Namun, hal ini dibantah sebab turunnya wahyu bukan kehendak Nabi. Pendapat kuat menyebut Nabi boleh berijtihad dan pernah melakukannya, sebagaimana ditegaskan dalam firman Allah pada Al-Anfal ayat 67.
+
+مَا كَانَ لِنَبِيٍّ أَنْ يَكُوْنَ لَهُ أَسْرَى حَتَّى يُثْخِنَ فِيْ الْأَرْضِ
+
+Artinya: _Tidak patut, bagi seorang Nabi mempunyai tawanan sebelum ia dapat melumpuhkan musuhnya di muka bumi_. “Al-Anfal, ayat 67”
+
+Pada ayat di atas, Allah menegur Nabi yang mengambil tawanan dalam perang badar. Menurut Imam Zakaria Al-Anshari, teguran tidak akan terjadi jika Nabi melakukan hal tersebut atas dasar wahyu.
+
+
+### Source and Ref
+https://bincangmuslimah.com/kajian/apakah-nabi-juga-berijtihad-43523/
+https://alfahmu.id/apakah-rasulullah-boleh-berijtihad-atau-tidak/
+___

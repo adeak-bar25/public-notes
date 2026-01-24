@@ -111,6 +111,4 @@ Salah satu contoh ijtihad yang dilakukan oleh Amr bin Ash pada peristiwa perang 
 https://kalam.sindonews.com/read/566344/68/pengganti-mandi-junub-boleh-tayamum-begini-tata-caranya-1634026244/10
 
 ## Ijtihad Nabi Muhammad saw
-Tidak hanya para sahabat yang berijtihad, bahkan Rasulullah saw sendiri beberapa kali berijtihad ketika wahyu tidak kunjung turun saat beliau dituntut untuk menyelesaikan sebuah permasalahan segera.
-
-Rasulullah saw adalah seorang yang ma'shum (Terpelihara atau bebas dari dosa dan kesalahan), 
+Mayoritas ulama meyakini bahwa Rasullulah pernah ber

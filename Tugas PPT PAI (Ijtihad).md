@@ -125,3 +125,4 @@ Pada ayat di atas, Allah menegur Nabi yang mengambil tawanan dalam perang badar.
 https://bincangmuslimah.com/kajian/apakah-nabi-juga-berijtihad-43523/
 https://alfahmu.id/apakah-rasulullah-boleh-berijtihad-atau-tidak/
 ___
+## Semua yang Berasal dari Nabi Muhammad adalah Wahyu

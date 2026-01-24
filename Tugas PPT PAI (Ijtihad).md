@@ -126,3 +126,4 @@ https://bincangmuslimah.com/kajian/apakah-nabi-juga-berijtihad-43523/
 https://alfahmu.id/apakah-rasulullah-boleh-berijtihad-atau-tidak/
 ___
 ## Semua yang Berasal dari Nabi Muhammad adalah Wahyu
+Menurut Syaikh Manna' Al-Qaththan dalam kitab Mabahit FIl Ulmil Quran menjelaskan bahwa hadis Rasulullah saw terbagi menjadi dua. Pertama adalah hadis taufiqi

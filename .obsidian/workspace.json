@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Tugas PPT PAI (Ijtihad)"
             }
+          },
+          {
+            "id": "12d4658b7c81549c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,6 +197,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2f0550011df9597",
+  "active": "12d4658b7c81549c",
   "lastOpenFiles": []
 }

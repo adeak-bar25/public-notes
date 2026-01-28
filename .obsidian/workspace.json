@@ -33,8 +33,7 @@
               "title": "Release Notes 1.11.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a4a9394e497d37d5",
@@ -197,6 +197,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "12d4658b7c81549c",
+  "active": "e2f0550011df9597",
   "lastOpenFiles": []
 }

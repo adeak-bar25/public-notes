@@ -1,4 +1,4 @@
-# Memahami Tentang Ijtihad
+ # Memahami Tentang Ijtihad
 ## Pengertian Ijtihad
 Menurut bahasa, Ijitihad adalah sebuah usaha yang bersungguh-sungguh untuk mencari ilmu untuk menghasilkan hukum dari sebuah permasalahan, baik yang dibahas secara explisit dalam Al-Quran/hadis maupun tidak.
 

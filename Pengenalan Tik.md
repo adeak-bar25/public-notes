@@ -34,3 +34,16 @@ Definisi klasik dari Laudon & Laudon menyatakan bahwa sistem informasi harus dip
 O'Brien & Marakas, bersama dengan pandangan Stair & Reynolds, mendefinisikan sistem informasi sebagai kombinasi dari individu (brainware), teknologi, prosedur operasi, dan basis data yang berinteraksi untuk mengumpulkan, memproses, menyimpan, dan mendistribusikan informasi guna mendukung pengambilan keputusan dan kontrol dalam sebuah organisasi. Oleh karena itu, Sistem Informasi bertindak sebagai jembatan (The Bridge) antara dunia komputasi teknis dan dunia manajemen bisnis. Fokus utamanya adalah bagaimana teknologi tersebut diterapkan dalam konteks bisnis untuk memberikan nilai tambah (value creation), memecahkan masalah efisiensi perusahaan, dan merumuskan strategi kompetitif.
 
 # Sistem Komputer
+## def 1
+Secara umum, komputer adalah peralatan elektronik yang menerima masukan data, mengolah data, dan memberikan hasil keluaran dalam bentuk informasi. Data informasi tersebut dapat berupa gambar, teks, suara, atau video.  
+  
+Mengutip buku ajar Pengantar Ilmu Komputer karangan Legito, ST, MKom dkk., sistem komputer adalah kumpulan perangkat-perangkat komputer yang saling berhubungan dan berinteraksi satu sama lain. Fungsinya untuk melakukan proses pengolahan data, sehingga dapat menghasilkan informasi yang diharapkan oleh penggunanya.  
+  
+Pengertian sistem komputer menurut John P. Hayes dalam bukunya yang berjudul Computer Architecture and Organization: An Integrated Approach adalah kumpulan perangkat keras dan perangkat lunak yang bekerja bersama-sama untuk menjalankan program komputer.  
+  
+Definisi tersebut sejalan dengan pengertian sistem komputer menurut Andrew S. Tanenbaum dalam bukunya Structures Computer Organization yaitu kombinasi dari perangkat keras dan perangkat lunak yang bekerja bersama untuk menjalankan program-program komputer.  
+  
+Dengan demikian, pengertian sistem komputer merujuk pada elemen-elemen yang terkait satu sama lain untuk menjalankan suatu aktivitas atau program yang menggunakan komputer.  
+
+Sistem komputer berfungsi melalui proses mengambil perintah dari pengguna atau program melalui perangkat input. Kemudian dibentuk instruksi untuk memproses data dan mengirim hasilnya ke perangkat output.  
+  

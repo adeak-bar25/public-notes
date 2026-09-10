@@ -62,3 +62,7 @@ Adapun komponen fisik atau perangkat keras (hardware) dari komputer terdiri dari
 Pengertian sistem komputer adalah suatu rangkaian atau kumpulan perangkat yang terdiri dari perangkat keras (hardware), perangkat lunak (software), dan pengguna (brainware) yang saling berinteraksi untuk mengolah data menjadi informasi yang berguna. Sistem ini memiliki fungsi utama untuk menerima input, memproses data, menyimpan data, dan menghasilkan output dalam bentuk informasi yang dapat dimanfaatkan.
 
 Pada dasarnya, sistem komputer dirancang untuk menjalankan berbagai tugas komputasi, seperti mengolah data, menjalankan program, dan mengelola sumber daya perangkat keras untuk mendukung kinerja aplikasi dan kebutuhan pengguna. Semua komponen dalam sistem komputer bekerja bersama agar dapat berfungsi secara efektif dan efisien untuk mencapai tujuan komputasi yang diinginkan.
+
+
+# Kesimpulan
+Sistem Teknologi Informasi = 

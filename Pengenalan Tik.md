@@ -69,4 +69,4 @@ Sistem Teknologi Informasi = Kombinasi dari sistem komputer dan bagian lain yang
 Sistem Informasi = Sistem buatan manusia yang menggabungkan elemen teknologi dengan elemen sosial dan organisasional.
 Sistem komputer: Elemen-elemen yang terkait satu sama lain untuk menjalankan komputer.
 
-Berdasarkan penjelasan sebelumnya, Sistem teknologi informasi, sistem informasi, dan sistem komputer membentuk sebuah hierarki. Sistem informasi merupakan bagian besar yang menghimpun sistem informasi dan Sistem Teknologi Informasi menghimpun Sistem komputer.
+Berdasarkan penjelasan sebelumnya, Sistem teknologi informasi, sistem informasi, dan sistem komputer membentuk sebuah hierarki. Sistem informasi merupakan bagian besar yang menghimpun sistem informasi dan Sistem Teknologi Informasi menghimpun Sistem komputer. 

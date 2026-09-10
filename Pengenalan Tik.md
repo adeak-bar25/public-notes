@@ -27,7 +27,7 @@ Sistem Informasi merupakan sebuah kombinasi dari teknologi informasi dengan akti
 Fokus SI lebih kepada proses, aliran informasi, dan bagaimana teknologi digunakan dalam konteks bisnis atau organisasi untuk mencapai tujuan tertentu. Contoh output yang dihasilkan SI: Sistem manajemen pelanggan atau _Customer Relationship Management_ (CRM), Sistem informasi sumber daya manusia atau _Human Resource Information System_ (HRIS), Sistem perencanaan sumber daya perusahaan atau _Enterprise Resource Planning_ (ERP).
 
 ## def 2
-Sistem Informasi menempati hierarki tertinggi dari spektrum ini. Berbeda dengan Sistem Komputer dan Sistem Teknologi Informasi yang sangat kental dengan aspek teknis dan deterministik, Sistem Informasi adalah sebuah sistem buatan manusia yang menggabungkan elemen teknologi dengan elemen sosial dan organisasional.
+Berbeda dengan Sistem Komputer dan Sistem Teknologi Informasi yang sangat kental dengan aspek teknis dan deterministik, Sistem Informasi adalah sebuah sistem buatan manusia yang menggabungkan elemen teknologi dengan elemen sosial dan organisasional.
 
 Definisi klasik dari Laudon & Laudon menyatakan bahwa sistem informasi harus dipandang melalui pendekatan sistem sosio-teknis (socio-technical system). Dalam paradigma ini, keunggulan organisasi tidak dapat dicapai hanya dengan mengandalkan perangkat keras atau perangkat lunak semata. Sistem Informasi bertumpu pada tiga dimensi utama: Manajemen, Organisasi, dan Teknologi. Dimensi teknologi hanyalah alat, sedangkan dimensi organisasi mencakup hierarki, proses bisnis, budaya, dan struktur kerja. Dimensi manajemen mencakup kepemimpinan, strategi, dan pengambilan keputusan.
 
@@ -65,4 +65,5 @@ Pada dasarnya, sistem komputer dirancang untuk menjalankan berbagai tugas komput
 
 
 # Kesimpulan
-Sistem Teknologi Informasi = 
+Sistem Teknologi Informasi = Kombinasi komputer berskala besar
+Sistem Informasi = Kombinasi 

@@ -65,5 +65,5 @@ Pada dasarnya, sistem komputer dirancang untuk menjalankan berbagai tugas komput
 
 
 # Kesimpulan
-Sistem Teknologi Informasi = Kombinasi komputer berskala besar
-Sistem Informasi = Kombinasi 
+Sistem Teknologi Informasi = Sistem yang bertindak sebagai sarana teknologi
+Sistem Informasi = Kombinasi Teknologi Informasi 

@@ -65,5 +65,6 @@ Pada dasarnya, sistem komputer dirancang untuk menjalankan berbagai tugas komput
 
 
 # Kesimpulan
-Sistem Teknologi Informasi = Sistem yang bertindak sebagai sarana teknologi
-Sistem Informasi = Kombinasi Teknologi Informasi 
+Sistem Teknologi Informasi = Kombinasi dari sistem komputer yang saling membangun .
+Sistem Informasi = Sistem buatan manusia yang menggabungkan elemen teknologi dengan elemen sosial dan organisasional.
+Sistem komputer: Elemen-elemen yang terkait satu sama lain untuk menjalankan komputer.

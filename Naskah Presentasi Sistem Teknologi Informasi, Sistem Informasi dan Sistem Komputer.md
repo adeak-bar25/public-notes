@@ -1,7 +1,6 @@
 Secara definisi, STI adalah kombinasi dari sistem komputer, jaringan komputer, data, dan manusia yang bekerja sama untuk memproses, menyimpan, dan mentransfer informasi.
 
-
-Fungsi utama dari STI ini adalah bertindak sebagai infrastruktur, sarana, atau _tools_ yang memampukan proses penyimpanan dan transmisi data dalam skala yang besar."
+Fungsi utama dari STI ini adalah bertindak sebagai infrastruktur, sarana, atau alat(_tools_) yang memampukan proses penyimpanan dan transmisi data dalam skala yang besar."
 
 
 "Sebuah Sistem Teknologi Informasi yang utuh dibangun oleh beberapa komponen utama, yaitu:
@@ -10,9 +9,7 @@ Fungsi utama dari STI ini adalah bertindak sebagai infrastruktur, sarana, atau _
 3. **Jaringan (Network)**, yang memfasilitasi telekomunikasi antar perangkat.
 4. Serta **Manusia (Brainware)**, yaitu para profesional di bidang IT atau 'The Creator' yang merancang, mengelola, dan menjaga keamanan sistem tersebut."
   
-"Selanjutnya adalah **Sistem Informasi (SI)**. Berbeda dengan Sistem Komputer atau STI yang sangat kental dengan aspek teknisnya, Sistem Informasi adalah sebuah sistem buatan manusia yang menggabungkan elemen teknologi dengan elemen sosial dan organisasional.
-
-  
+"Selanjutnya adalah **Sistem Informasi (SI)**. Berbeda dengan atau Sistem Teknologi I yang sangat kental dengan aspek teknisnya, Sistem Informasi adalah sebuah sistem buatan manusia yang menggabungkan elemen teknologi dengan elemen sosial dan organisasional.
 
 Sistem Informasi menggunakan pendekatan sosio-teknis. Artinya, teknologi di sini hanyalah alat. Fokus utama dari Sistem Informasi adalah pada proses, aliran informasi, dan bagaimana teknologi tersebut diterapkan sebagai _jembatan_ antara dunia teknis komputasi dengan dunia manajemen bisnis untuk mencapai tujuan organisasi."
 
@@ -23,8 +20,6 @@ Sistem Informasi menggunakan pendekatan sosio-teknis. Artinya, teknologi di sini
 4. Serta **Aplikasi Booking Online** dan **E-Learning**"
 
 "Materi ketiga adalah **Sistem Komputer (SK)**. Jika tadi kita membahas infrastruktur dan manajemennya, maka Sistem Komputer ini adalah bagian paling dasar (fondasi) dari semuanya.
-
-  
 
 Sistem Komputer adalah kumpulan perangkat keras (hardware) dan perangkat lunak (software) yang bekerja bersama-sama untuk menjalankan program komputer. Sistem ini berfungsi untuk menerima input dari pengguna, memproses data tersebut, dan menghasilkan output berupa informasi."
 

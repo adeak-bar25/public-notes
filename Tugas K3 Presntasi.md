@@ -44,3 +44,23 @@ Berikan alasan penolakan dengan permintaan maaf, turut mengerti perasaan, lalu j
 
 Contoh:
 > Sebelumnya mohon maaf, saya mengerti dengan masalah yang terjadi saat ini, namun saat ini kondisi keamanan listrik pada server saat ini belum memungkinkan untuk dilakukan pengantian komponen. Maka dari itu saya memohon pengertian bapak/ibu untuk tidak terburu-buru hingga kondisi pengerjaan dapat dipastikan aman. Terima Kasih
+
+# Rencana Slide
+1. Cover
+2. Pengenalan anggota kelompok
+3. Bahas Kasus (Copas saja dari slide)
+
+4. Pertanyaan 1 : Pertanyaan 1 (Copas jg dari slide)
+5. Pertanyaan 1 : UU saja (Copas dari catatan)
+6. Pertanyaan 1 : Analisis Resiko dan Penilaian Resiko
+7. Pertanyaan 1 : Kesimpulan (Copas dari catatan, tambah mi sedikit)
+
+8. Pertanyaan 2 : Pertanyaan 2 (Copas jg dari slide)
+9. Pertanyaan 2 : Jawaban langsung
+
+10. Pertanyaan 3 : Pertanyaan 3 (Copas jg dari slide)
+11. Pertanyaan 3 : Jawab langsung saja
+12. Pertanyaan 3 : Contoh
+
+13. Sesi tanya jawab
+14. Ending
